@@ -1,8 +1,10 @@
 # Open Source Implicit Association Test
+(Modified by Anzu Sekikawa - July 2022)
+(Race IAT - modeled after Project Implicit Race IAT) (https://implicit.harvard.edu/implicit/Study?tid=-1)
+
 
 Written in PsychoPy, but more flexible than the version bundled with it.
 
-PLEASE NOTE THAT I NO LONGER MAINTAIN THIS CODE. AS PSYCHOPY HAS BEEN UPDATED OVER TIME, IT MAY HAVE BROKEN FEATURES. FEEL FREE TO FORK, FIX AND MAINTAIN THIS CODE IF YOU WISH.
 
 [TOC]
 
@@ -16,7 +18,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ## Version
 
-1.2.1 (2016/04/16)
+1.2.2 (2022/07/14)
 
 ## Description & purpose
 
@@ -51,13 +53,13 @@ The current version follows the block layout described in Nosek et al. (2007: th
 - Block 2 (attributes) 20 Trials
 - Block 3 (both) 20 Trials
 - Block 4 (both) 40 Trials
-- Block 5 (categories reversed) 40 Trials
+- Block 5 (categories reversed) 28 Trials
 - Block 6 (both reversed) 20 Trials
 - Block 7 (both reversed) 40 Trials
 
 ## Localisation and customisation
 
-All stimuli and instructions within the task are set via the `stimuli.xlsx` and `task.xlsx` files.
+All stimuli and instructions within the task are set via the `stimuli.xlsx` and `instruction.xlsx` files.
 
 PsychoPy has Unicode support, so translating the task into other languages (Spanish, Polish, Japanese, etc.) only requires changes to these excel files.
 
@@ -109,6 +111,13 @@ If there are additional features or refinements you would like to see please fee
 - Add internal consistency calculation to R script
 
 ## Changelog
+1.2.2
+
+- Anzu Sekikawa
+- Race IAT (instead of flower/insect)
+- changed image and text stimuli
+- changed number of trials for Block 5 (28 instead of 40)
+
 1.2.1
 
 - Checked to work in the latest version of psychopy (1.90) and updated the readme.
