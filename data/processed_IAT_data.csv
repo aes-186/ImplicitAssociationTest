@@ -1,0 +1,3 @@
+participant,gender,age,expName,date,critical_blocks_percentage_accuracy,critical_blocks_mean_rt,exclude_based_on_fast_trials,IAT_D1,IAT_D1a,IAT_D1b
+1,F,20,IAT,2022_Jun_30_1027,NA,0.74,FALSE,0.91,0.9612492375344874,0.8574864931784647
+NA,,NA,,,NA,NA,NA,NA,NA,NA
