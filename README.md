@@ -55,7 +55,7 @@ The current version follows the block layout described in Nosek et al. (2007: th
 - Block 2 (attributes) 20 Trials
 - Block 3 (both) 20 Trials
 - Block 4 (both) 40 Trials
-- Block 5 (categories reversed) 28 Trials
+- Block 5 (categories reversed) 40 Trials
 - Block 6 (both reversed) 20 Trials
 - Block 7 (both reversed) 40 Trials
 
