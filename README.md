@@ -1,5 +1,6 @@
 # Open Source Implicit Association Test
 Modified by Anzu Sekikawa - July 2022
+
 Race IAT - modeled after Project Implicit Race IAT
 (https://implicit.harvard.edu/implicit/Study?tid=-1)
 
