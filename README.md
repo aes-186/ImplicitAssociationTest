@@ -1,6 +1,7 @@
 # Open Source Implicit Association Test
-(Modified by Anzu Sekikawa - July 2022)
-(Race IAT - modeled after Project Implicit Race IAT) (https://implicit.harvard.edu/implicit/Study?tid=-1)
+Modified by Anzu Sekikawa - July 2022
+Race IAT - modeled after Project Implicit Race IAT
+(https://implicit.harvard.edu/implicit/Study?tid=-1)
 
 
 Written in PsychoPy, but more flexible than the version bundled with it.
