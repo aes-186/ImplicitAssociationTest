@@ -20,7 +20,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ## Version
 
-1.2.2 (2022/07/14)
+1.2.3 (2022/07/28)
 
 ## Description & purpose
 
@@ -113,6 +113,10 @@ If there are additional features or refinements you would like to see please fee
 - Add internal consistency calculation to R script
 
 ## Changelog
+1.2.3
+- Anzu Sekikawa
+- Update instructions to be images instead of text
+
 1.2.2
 
 - Anzu Sekikawa
